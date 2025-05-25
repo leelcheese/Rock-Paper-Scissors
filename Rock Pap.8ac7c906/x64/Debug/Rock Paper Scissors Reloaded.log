@@ -1,0 +1,5 @@
+﻿  Rock Paper Scissors Reloaded.cpp
+C:\Users\dciov\Desktop\atestat\Rock Paper Scissors Reloaded\Rock Paper Scissors Reloaded.cpp(78,7): warning C4101: 'saveNameChoice': unreferenced local variable
+C:\Users\dciov\Desktop\atestat\Rock Paper Scissors Reloaded\Rock Paper Scissors Reloaded.cpp(273,6): warning C4101: 'i': unreferenced local variable
+C:\Users\dciov\Desktop\atestat\Rock Paper Scissors Reloaded\Rock Paper Scissors Reloaded.cpp(470,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rock Paper Scissors Reloaded.vcxproj -> C:\Users\dciov\Desktop\atestat\Rock Paper Scissors Reloaded\x64\Debug\Rock Paper Scissors Reloaded.exe

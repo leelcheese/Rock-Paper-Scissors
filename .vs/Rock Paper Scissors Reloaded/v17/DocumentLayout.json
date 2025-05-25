@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dciov\\Desktop\\atestat\\Rock Paper Scissors Reloaded\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC7C906-AF82-49D9-AEA1-66FBF47D2FB3}|Rock Paper Scissors Reloaded.vcxproj|C:\\Users\\dciov\\Desktop\\atestat\\Rock Paper Scissors Reloaded\\Rock Paper Scissors Reloaded.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AC7C906-AF82-49D9-AEA1-66FBF47D2FB3}|Rock Paper Scissors Reloaded.vcxproj|solutionrelative:Rock Paper Scissors Reloaded.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC7C906-AF82-49D9-AEA1-66FBF47D2FB3}|Rock Paper Scissors Reloaded.vcxproj|C:\\Users\\dciov\\Desktop\\atestat\\Rock Paper Scissors Reloaded\\Top10.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8AC7C906-AF82-49D9-AEA1-66FBF47D2FB3}|Rock Paper Scissors Reloaded.vcxproj|solutionrelative:Top10.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC7C906-AF82-49D9-AEA1-66FBF47D2FB3}|Rock Paper Scissors Reloaded.vcxproj|C:\\Users\\dciov\\Desktop\\atestat\\Rock Paper Scissors Reloaded\\Save.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8AC7C906-AF82-49D9-AEA1-66FBF47D2FB3}|Rock Paper Scissors Reloaded.vcxproj|solutionrelative:Save.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 4322,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rock Paper Scissors Reloaded.cpp",
+              "DocumentMoniker": "C:\\Users\\dciov\\Desktop\\atestat\\Rock Paper Scissors Reloaded\\Rock Paper Scissors Reloaded.cpp",
+              "RelativeDocumentMoniker": "Rock Paper Scissors Reloaded.cpp",
+              "ToolTip": "C:\\Users\\dciov\\Desktop\\atestat\\Rock Paper Scissors Reloaded\\Rock Paper Scissors Reloaded.cpp",
+              "RelativeToolTip": "Rock Paper Scissors Reloaded.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T13:00:49.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 541,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Save.txt",
+              "DocumentMoniker": "C:\\Users\\dciov\\Desktop\\atestat\\Rock Paper Scissors Reloaded\\Save.txt",
+              "RelativeDocumentMoniker": "Save.txt",
+              "ToolTip": "C:\\Users\\dciov\\Desktop\\atestat\\Rock Paper Scissors Reloaded\\Save.txt",
+              "RelativeToolTip": "Save.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-28T13:41:58.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1279,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Top10.txt",
+              "DocumentMoniker": "C:\\Users\\dciov\\Desktop\\atestat\\Rock Paper Scissors Reloaded\\Top10.txt",
+              "RelativeDocumentMoniker": "Top10.txt",
+              "ToolTip": "C:\\Users\\dciov\\Desktop\\atestat\\Rock Paper Scissors Reloaded\\Top10.txt",
+              "RelativeToolTip": "Top10.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-28T14:47:39.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
